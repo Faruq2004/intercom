@@ -1,4 +1,5 @@
----
+## Trac address 
+trac1p4sskm9vcm6ahfy4jwgaq8j2m4u5hh95ldkmledwk7e8wlnn5uwqc8f669
 name: intercom
 description: Skill for autonomous agents. Secure & private P2P messaging (sidechannels), sparse state/data + contracts, and optional value transfer. For a true agentic internet.
 ---
